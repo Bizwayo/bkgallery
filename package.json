@@ -1,0 +1,19 @@
+{
+  "name": "bkgallery",
+  "version": "1.0.0",
+  "description": "Brasswell Kubikisha gallery website",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bizwayo/bkgallery.git"
+  },
+  "author": "Bizwayo Kasaro",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Bizwayo/bkgallery/issues"
+  },
+  "homepage": "https://github.com/Bizwayo/bkgallery#readme"
+}

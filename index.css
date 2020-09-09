@@ -1,0 +1,51 @@
+*{
+	box-sizing: border-box;
+}
+
+body{
+	margin: 0;
+	font-family: 'Sofia';
+	font-size: 1rem;
+	font-weight: 500;
+	line-height: 1.5;
+	color: black;
+	text-align: left;
+	background-color: #fff;
+	background-image: url("bk1.jpeg");
+	background-color: grey;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-size: auto;
+	text-align: center;
+}
+
+header{
+	display: block;
+}
+
+h1{
+	margin-top: 0;
+	margin-bottom: 0.5rem;
+	font-size: 4rem;
+}
+
+p{
+	margin-top: 0;
+	margin-bottom: 1rem;
+	font-size: 2rem;
+}
+
+.intro-body{
+	padding-top: 15%;
+	padding-left: 43%;
+}
+
+.socials{
+	margin-top: 10%;
+	padding-left: 43%;
+}
+
+.socials i{
+	margin: 10px;
+	color: black;
+}
